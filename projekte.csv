@@ -1,0 +1,101 @@
+projekt_id,projektname,kategorie,region,zielgruppe,startdatum,enddatum,status,budget_geplant,budget_verbraucht,mitarbeitende_zugewiesen,ziel_teilnehmende,ist_teilnehmende,ziel_neuwähler_aktiviert,ist_neuwähler_aktiviert,wirkungsscore,zufriedenheit_schnitt,weiterempfehlung_quote,medienpraesenz
+P-2023-001,Gemeinsam entscheiden Bayern 2023,Workshop,Bayern,Geflüchtete,2023-09-08,2023-11-18,geplant,7572,0,1,46,0,18,0,,,,0
+P-2024-002,Stimme erheben Berlin 2024,Workshop,Berlin,Lehrkräfte,2024-06-01,2024-11-16,abgeschlossen,3869,3576,3,186,193,60,51,82,3.2,72,5
+P-2024-003,Zukunftsdialog Hessen 2024,Beratung,Hessen,Erwachsene 18–35,2024-01-25,2024-03-03,abgeschlossen,14763,15338,4,174,127,37,32,77,3.4,85,9
+P-2023-004,Wählen macht's Bayern 2023,Workshop,Bayern,Lehrkräfte,2023-10-24,2023-11-27,geplant,10628,0,6,45,0,14,0,,,,0
+P-2023-005,Stimme erheben Brandenburg 2023,Kampagne,Brandenburg,Erwachsene 18–35,2023-06-25,2023-11-22,abgeschlossen,11021,8435,2,117,86,55,57,75,2.9,65,6
+P-2024-006,Mein Kiez – meine Stimme Sachsen 2024,Bildungsprojekt,Sachsen,Lehrkräfte,2024-05-26,2024-09-18,abgeschlossen,24064,21261,2,87,56,36,33,77,5,53,8
+P-2024-007,Zukunftsdialog NRW 2024,Workshop,NRW,Seniorinnen 60+,2024-03-08,2024-08-21,abgeschlossen,5081,4338,2,172,214,61,77,100,4,62,12
+P-2023-008,Politisch aktiv NRW 2023,Event,NRW,Allgemeine Bevölkerung,2023-01-04,2023-03-26,abgeschlossen,19403,19495,6,149,177,68,50,92,4.5,78,0
+P-2023-009,Wählen macht's Hessen 2023,Workshop,Hessen,Auszubildende,2023-11-11,2024-01-25,laufend,4898,1628,5,165,125,37,14,64,3.3,80,4
+P-2024-010,Civic Lab Hamburg 2024,Bildungsprojekt,Hamburg,Lehrkräfte,2024-07-06,2024-09-09,laufend,13214,5542,1,191,105,63,25,60,4.2,64,4
+P-2023-011,Gemeinsam entscheiden Berlin 2023,Workshop,Berlin,Erwachsene 18–35,2023-02-02,2023-05-11,abgeschlossen,5321,4819,6,91,92,24,14,71,3.2,51,10
+P-2023-012,Debattierclub Baden-Württemberg 2023,Event,Baden-Württemberg,Jugendliche 14–18,2023-04-11,2023-05-10,laufend,16193,9724,2,47,12,12,4,55,4.8,78,6
+P-2023-013,Debattierclub Bayern 2023,Bildungsprojekt,Bayern,Erwachsene 18–35,2023-08-31,2023-10-26,abgeschlossen,16317,14591,8,74,85,34,21,85,4.5,63,6
+P-2023-014,Civic Lab Brandenburg 2023,Kampagne,Brandenburg,Lehrkräfte,2023-03-01,2023-08-10,abgeschlossen,20766,15042,7,100,59,37,33,72,3.2,83,1
+P-2023-015,Demokratiewerkstatt Berlin 2023,Bildungsprojekt,Berlin,Jugendliche 14–18,2023-03-25,2023-07-24,abgeschlossen,24540,22907,1,153,118,42,43,84,4.2,74,5
+P-2023-016,Debattierclub Thüringen 2023,Bildungsprojekt,Thüringen,Erwachsene 18–35,2023-03-17,2023-08-15,laufend,9984,4774,1,53,39,24,15,77,4.4,89,6
+P-2023-017,Stimme erheben Brandenburg 2023,Bildungsprojekt,Brandenburg,Erwachsene 18–35,2023-05-18,2023-08-07,geplant,6782,0,4,47,0,19,0,,,,0
+P-2024-018,Jugendparlament Berlin 2024,Beratung,Berlin,Geflüchtete,2024-06-01,2024-10-18,geplant,11228,0,1,33,0,7,0,,,,0
+P-2024-019,Zukunftsdialog Brandenburg 2024,Kampagne,Brandenburg,Seniorinnen 60+,2024-03-28,2024-08-30,abgeschlossen,17014,15727,1,48,28,22,26,74,3.7,47,4
+P-2023-020,Civic Lab Berlin 2023,Kampagne,Berlin,Erwachsene 18–35,2023-12-29,2024-06-03,abgeschlossen,16316,17776,5,59,70,15,9,93,4.8,95,6
+P-2024-021,Stimme erheben Hamburg 2024,Workshop,Hamburg,Jugendliche 14–18,2024-04-26,2024-07-05,abgeschlossen,9539,9793,6,137,108,61,73,80,3.4,49,12
+P-2023-022,Demokratiewerkstatt Hamburg 2023,Bildungsprojekt,Hamburg,Auszubildende,2023-01-29,2023-03-13,geplant,11559,0,7,65,0,24,0,,,,0
+P-2024-023,Demokratiewerkstatt Hamburg 2024,Beratung,Hamburg,Erwachsene 18–35,2024-01-30,2024-07-09,abgeschlossen,9228,7399,5,131,72,62,57,80,4.8,84,5
+P-2024-024,Civic Lab Hamburg 2024,Beratung,Hamburg,Auszubildende,2024-02-17,2024-05-16,laufend,21166,5714,7,127,71,39,21,67,4.7,69,2
+P-2024-025,Jugendparlament Sachsen 2024,Bildungsprojekt,Sachsen,Allgemeine Bevölkerung,2024-03-28,2024-08-02,laufend,10002,4812,1,63,35,17,8,57,3.4,62,1
+P-2024-026,Debattierclub Thüringen 2024,Event,Thüringen,Erwachsene 18–35,2024-04-11,2024-08-09,abgeschlossen,23636,21987,8,198,162,63,38,75,3.3,96,11
+P-2024-027,Stimme erheben Berlin 2024,Bildungsprojekt,Berlin,Erwachsene 18–35,2024-04-12,2024-05-30,abgeschlossen,18225,17624,4,163,157,79,95,89,3.2,75,7
+P-2023-028,Zukunftsdialog Niedersachsen 2023,Beratung,Niedersachsen,Allgemeine Bevölkerung,2023-09-02,2023-11-25,geplant,17413,0,6,39,0,16,0,,,,0
+P-2023-029,Politisch aktiv NRW 2023,Workshop,NRW,Seniorinnen 60+,2023-08-25,2023-12-15,laufend,8007,4712,7,36,14,10,3,60,4.5,94,0
+P-2024-030,Wählen macht's Sachsen 2024,Workshop,Sachsen,Geflüchtete,2024-02-04,2024-06-04,laufend,20636,12611,8,159,104,74,29,65,4.3,75,5
+P-2024-031,Stimme erheben Niedersachsen 2024,Bildungsprojekt,Niedersachsen,Jugendliche 14–18,2024-02-08,2024-07-22,abgeschlossen,21493,20745,7,41,40,9,7,84,3.5,93,6
+P-2024-032,Demokratiewerkstatt Baden-Württemberg 2024,Workshop,Baden-Württemberg,Jugendliche 14–18,2024-07-06,2024-08-02,abgeschlossen,14467,11424,4,37,40,14,15,90,3.3,75,10
+P-2023-033,Demokratiewerkstatt Sachsen 2023,Beratung,Sachsen,Seniorinnen 60+,2023-04-28,2023-06-22,laufend,13192,3422,5,26,19,9,5,75,4.4,90,1
+P-2023-034,Gemeinsam entscheiden Hessen 2023,Bildungsprojekt,Hessen,Jugendliche 14–18,2023-12-22,2024-05-20,geplant,17037,0,8,189,0,58,0,,,,0
+P-2023-035,Stimme erheben Sachsen 2023,Event,Sachsen,Allgemeine Bevölkerung,2023-06-06,2023-10-09,abgeschlossen,8771,8714,8,186,137,82,76,88,4.7,98,1
+P-2023-036,Civic Lab Thüringen 2023,Event,Thüringen,Studierende,2023-12-11,2024-01-01,abgeschlossen,19197,19972,7,66,58,20,14,74,3.9,57,1
+P-2024-037,Zukunftsdialog Berlin 2024,Bildungsprojekt,Berlin,Allgemeine Bevölkerung,2024-05-17,2024-09-22,laufend,3565,895,8,76,29,20,9,64,5,85,2
+P-2023-038,Civic Lab Brandenburg 2023,Beratung,Brandenburg,Lehrkräfte,2023-05-04,2023-07-06,abgeschlossen,13339,9975,5,157,190,63,41,85,4,63,1
+P-2023-039,Wählen macht's NRW 2023,Beratung,NRW,Geflüchtete,2023-01-15,2023-06-14,abgeschlossen,7147,5787,1,33,30,13,7,74,3.8,73,5
+P-2024-040,Politisch aktiv Hessen 2024,Event,Hessen,Erwachsene 18–35,2024-02-15,2024-07-03,abgeschlossen,5427,5051,4,195,114,47,44,80,4.5,83,9
+P-2023-041,Demokratiewerkstatt Baden-Württemberg 2023,Event,Baden-Württemberg,Allgemeine Bevölkerung,2023-11-01,2024-04-13,laufend,17051,6274,3,178,25,86,13,36,3.3,61,4
+P-2023-042,Debattierclub Baden-Württemberg 2023,Event,Baden-Württemberg,Allgemeine Bevölkerung,2023-10-26,2023-11-17,abgeschlossen,10585,8629,4,92,95,30,31,95,4.9,72,1
+P-2023-043,Demokratiewerkstatt Brandenburg 2023,Kampagne,Brandenburg,Seniorinnen 60+,2023-03-15,2023-04-13,geplant,8436,0,8,98,0,37,0,,,,0
+P-2024-044,Zukunftsdialog Hamburg 2024,Beratung,Hamburg,Geflüchtete,2024-05-27,2024-10-26,geplant,19180,0,5,132,0,29,0,,,,0
+P-2023-045,Zukunftsdialog Berlin 2023,Workshop,Berlin,Jugendliche 14–18,2023-10-03,2024-03-12,abgeschlossen,4318,4340,7,64,56,25,30,85,3.9,50,7
+P-2023-046,Debattierclub Hessen 2023,Beratung,Hessen,Seniorinnen 60+,2023-12-04,2024-04-01,abgeschlossen,19235,15682,8,122,136,44,38,88,3.7,77,0
+P-2024-047,Jugendparlament Berlin 2024,Workshop,Berlin,Auszubildende,2024-05-25,2024-11-15,laufend,17484,10805,7,72,20,17,4,50,4.4,69,4
+P-2023-048,Wählen macht's Hessen 2023,Kampagne,Hessen,Allgemeine Bevölkerung,2023-05-01,2023-10-27,abgeschlossen,8045,7235,2,94,85,26,30,88,3.2,83,8
+P-2023-049,Civic Lab Sachsen 2023,Event,Sachsen,Geflüchtete,2023-01-03,2023-03-30,abgeschlossen,12783,13230,7,168,209,58,35,83,3.6,65,3
+P-2024-050,Wählen macht's Bayern 2024,Event,Bayern,Auszubildende,2024-04-29,2024-08-18,abgeschlossen,15651,17143,7,186,230,64,33,82,4.8,45,11
+P-2023-051,Debattierclub Hessen 2023,Kampagne,Hessen,Allgemeine Bevölkerung,2023-09-29,2024-01-07,geplant,23422,0,7,197,0,62,0,,,,0
+P-2023-052,Zukunftsdialog Niedersachsen 2023,Event,Niedersachsen,Jugendliche 14–18,2023-03-12,2023-05-25,abgeschlossen,23681,23059,1,93,116,39,33,89,4.3,46,0
+P-2023-053,Stimme erheben Sachsen 2023,Beratung,Sachsen,Studierende,2023-05-30,2023-08-14,abgeschlossen,20405,17646,8,194,214,48,27,79,4.1,59,7
+P-2024-054,Civic Lab Baden-Württemberg 2024,Workshop,Baden-Württemberg,Geflüchtete,2024-07-13,2024-09-05,abgeschlossen,5420,4751,7,108,134,31,39,100,3.6,75,1
+P-2023-055,Zukunftsdialog Thüringen 2023,Beratung,Thüringen,Geflüchtete,2023-10-30,2023-11-18,laufend,24568,10261,4,22,10,8,4,62,4.8,64,4
+P-2023-056,Jugendparlament Thüringen 2023,Kampagne,Thüringen,Geflüchtete,2023-05-21,2023-11-11,geplant,6183,0,6,180,0,70,0,,,,0
+P-2023-057,Debattierclub Hessen 2023,Kampagne,Hessen,Geflüchtete,2023-12-01,2024-03-30,geplant,8755,0,5,71,0,17,0,,,,0
+P-2023-058,Debattierclub Baden-Württemberg 2023,Beratung,Baden-Württemberg,Geflüchtete,2023-12-13,2024-01-25,abgeschlossen,18346,19908,2,56,60,14,14,88,4.5,45,4
+P-2024-059,Wählen macht's Brandenburg 2024,Beratung,Brandenburg,Studierende,2024-01-16,2024-02-26,laufend,10661,4896,1,178,127,65,42,70,3.6,76,0
+P-2023-060,Politisch aktiv Baden-Württemberg 2023,Beratung,Baden-Württemberg,Erwachsene 18–35,2023-04-10,2023-06-23,abgeschlossen,20614,15548,7,136,110,65,68,91,4.2,98,7
+P-2024-061,Demokratiewerkstatt Sachsen 2024,Workshop,Sachsen,Lehrkräfte,2024-03-30,2024-08-04,abgeschlossen,10736,11188,4,45,55,13,15,100,3.1,97,7
+P-2023-062,Civic Lab Bayern 2023,Bildungsprojekt,Bayern,Jugendliche 14–18,2023-12-08,2024-02-22,geplant,7126,0,4,164,0,42,0,,,,0
+P-2023-063,Wählen macht's Thüringen 2023,Kampagne,Thüringen,Jugendliche 14–18,2023-10-11,2023-12-01,abgeschlossen,7259,6649,7,64,40,29,17,59,2.8,61,0
+P-2024-064,Demokratiewerkstatt Hessen 2024,Workshop,Hessen,Allgemeine Bevölkerung,2024-04-04,2024-07-19,laufend,19817,10433,8,135,61,65,8,51,4,75,3
+P-2023-065,Politisch aktiv Hessen 2023,Event,Hessen,Erwachsene 18–35,2023-11-26,2024-05-13,geplant,7860,0,5,36,0,8,0,,,,0
+P-2023-066,Zukunftsdialog Thüringen 2023,Bildungsprojekt,Thüringen,Studierende,2023-04-12,2023-05-25,laufend,24453,13644,5,161,97,42,15,63,4.5,70,3
+P-2023-067,Jugendparlament Baden-Württemberg 2023,Kampagne,Baden-Württemberg,Erwachsene 18–35,2023-04-04,2023-05-09,abgeschlossen,6054,5283,5,115,128,42,40,97,4.3,93,6
+P-2024-068,Politisch aktiv Sachsen 2024,Beratung,Sachsen,Erwachsene 18–35,2024-08-14,2025-01-04,laufend,9971,2842,1,143,36,33,20,62,4.6,85,6
+P-2023-069,Mein Kiez – meine Stimme Bayern 2023,Beratung,Bayern,Seniorinnen 60+,2023-10-07,2024-01-08,laufend,14135,5555,6,66,46,24,8,64,4.1,74,3
+P-2024-070,Debattierclub Brandenburg 2024,Beratung,Brandenburg,Auszubildende,2024-08-04,2025-01-17,abgeschlossen,5783,6091,2,59,38,22,22,75,3.8,62,3
+P-2024-071,Mein Kiez – meine Stimme Hessen 2024,Event,Hessen,Geflüchtete,2024-05-13,2024-10-08,abgeschlossen,24860,20468,7,76,62,28,14,64,3.4,52,0
+P-2024-072,Gemeinsam entscheiden Hamburg 2024,Kampagne,Hamburg,Lehrkräfte,2024-05-27,2024-10-31,abgeschlossen,24890,25449,5,38,31,16,13,83,4.1,90,10
+P-2023-073,Wählen macht's Bayern 2023,Event,Bayern,Auszubildende,2023-06-25,2023-12-14,abgeschlossen,18076,18669,2,112,68,50,34,69,4.4,59,5
+P-2023-074,Politisch aktiv Niedersachsen 2023,Workshop,Niedersachsen,Lehrkräfte,2023-12-24,2024-04-05,laufend,24149,15655,8,80,13,22,4,48,4.5,81,3
+P-2023-075,Politisch aktiv Thüringen 2023,Bildungsprojekt,Thüringen,Auszubildende,2023-11-20,2024-01-11,geplant,17410,0,1,37,0,12,0,,,,0
+P-2024-076,Politisch aktiv Hessen 2024,Bildungsprojekt,Hessen,Geflüchtete,2024-04-17,2024-08-24,abgeschlossen,4232,3058,4,93,56,42,49,78,4.4,47,7
+P-2023-077,Zukunftsdialog Baden-Württemberg 2023,Bildungsprojekt,Baden-Württemberg,Seniorinnen 60+,2023-03-05,2023-07-12,abgeschlossen,6391,6546,6,107,132,24,24,98,4,84,2
+P-2023-078,Gemeinsam entscheiden Hamburg 2023,Event,Hamburg,Auszubildende,2023-02-23,2023-08-17,abgeschlossen,24210,20187,3,104,64,41,29,72,4.8,64,10
+P-2023-079,Civic Lab Brandenburg 2023,Workshop,Brandenburg,Studierende,2023-12-03,2024-01-18,laufend,24958,14639,3,195,144,44,22,67,3.4,81,1
+P-2024-080,Gemeinsam entscheiden Brandenburg 2024,Workshop,Brandenburg,Erwachsene 18–35,2024-06-03,2024-11-02,abgeschlossen,20253,14482,6,106,123,40,39,89,3.2,73,0
+P-2024-081,Zukunftsdialog Baden-Württemberg 2024,Kampagne,Baden-Württemberg,Geflüchtete,2024-04-04,2024-06-16,geplant,20498,0,8,81,0,23,0,,,,0
+P-2023-082,Mein Kiez – meine Stimme Hamburg 2023,Beratung,Hamburg,Studierende,2023-06-15,2023-08-19,laufend,22813,6299,3,84,11,28,9,41,3.6,60,2
+P-2023-083,Jugendparlament Berlin 2023,Workshop,Berlin,Allgemeine Bevölkerung,2023-12-24,2024-01-13,laufend,16595,3805,5,148,53,46,6,47,4.3,59,1
+P-2023-084,Politisch aktiv Baden-Württemberg 2023,Kampagne,Baden-Württemberg,Allgemeine Bevölkerung,2023-01-06,2023-02-09,laufend,3622,1234,8,58,28,24,9,54,3.1,76,5
+P-2024-085,Debattierclub Baden-Württemberg 2024,Workshop,Baden-Württemberg,Jugendliche 14–18,2024-06-11,2024-11-19,abgeschlossen,10927,10789,1,94,79,36,24,75,3.6,78,8
+P-2024-086,Mein Kiez – meine Stimme Bayern 2024,Event,Bayern,Studierende,2024-01-18,2024-04-05,laufend,3532,1400,8,37,12,15,7,56,4.6,61,6
+P-2024-087,Zukunftsdialog NRW 2024,Kampagne,NRW,Erwachsene 18–35,2024-04-13,2024-05-06,geplant,12615,0,5,71,0,15,0,,,,0
+P-2023-088,Zukunftsdialog Niedersachsen 2023,Event,Niedersachsen,Allgemeine Bevölkerung,2023-09-17,2023-10-10,laufend,24197,7382,3,111,78,23,11,67,3.8,78,3
+P-2023-089,Mein Kiez – meine Stimme Sachsen 2023,Event,Sachsen,Geflüchtete,2023-03-26,2023-07-26,laufend,5586,2440,1,66,31,19,2,48,3.3,78,2
+P-2023-090,Debattierclub Thüringen 2023,Beratung,Thüringen,Studierende,2023-10-09,2024-04-03,geplant,4879,0,3,39,0,15,0,,,,0
+P-2023-091,Debattierclub Thüringen 2023,Kampagne,Thüringen,Allgemeine Bevölkerung,2023-02-05,2023-03-23,abgeschlossen,5203,4133,6,185,149,58,55,86,4.5,81,2
+P-2023-092,Demokratiewerkstatt Brandenburg 2023,Beratung,Brandenburg,Lehrkräfte,2023-04-27,2023-05-17,laufend,9096,4315,3,119,87,28,15,75,4.8,81,1
+P-2023-093,Wählen macht's NRW 2023,Event,NRW,Allgemeine Bevölkerung,2023-03-31,2023-07-04,abgeschlossen,24883,20876,4,36,33,10,7,74,3.9,52,3
+P-2024-094,Demokratiewerkstatt Sachsen 2024,Workshop,Sachsen,Auszubildende,2024-04-23,2024-09-25,laufend,7252,3891,8,42,6,13,6,45,3.1,70,5
+P-2024-095,Zukunftsdialog Sachsen 2024,Bildungsprojekt,Sachsen,Seniorinnen 60+,2024-07-18,2025-01-11,laufend,22260,6679,5,53,21,25,3,51,3.6,95,1
+P-2023-096,Jugendparlament Berlin 2023,Beratung,Berlin,Geflüchtete,2023-05-09,2023-10-30,abgeschlossen,12922,12221,1,43,38,10,12,96,4.1,98,9
+P-2023-097,Mein Kiez – meine Stimme Thüringen 2023,Workshop,Thüringen,Geflüchtete,2023-08-04,2024-01-11,abgeschlossen,16650,15771,7,27,24,10,7,68,3,48,2
+P-2023-098,Jugendparlament Berlin 2023,Event,Berlin,Auszubildende,2023-05-28,2023-08-30,laufend,13463,8129,5,108,84,25,8,62,3.9,59,0
+P-2023-099,Civic Lab Hamburg 2023,Bildungsprojekt,Hamburg,Lehrkräfte,2023-06-13,2023-09-18,laufend,21929,13083,4,68,43,23,9,69,4.9,82,3
+P-2023-100,Gemeinsam entscheiden Bayern 2023,Beratung,Bayern,Jugendliche 14–18,2023-10-16,2024-03-04,laufend,22579,15473,1,187,106,53,5,56,4.5,73,0
