@@ -26,8 +26,15 @@ st.caption("Öffentliche Übersicht über unsere Projekte, Teilnehmende und Wirk
 # Sidebar filters
 st.sidebar.header("Filter")
 
-jahre = sorted(df["jahr"].dropna().unique().astype(int).tolist())
-jahr_filter = st.sidebar.multiselect("Jahr", jahre, default=jahre)
+min_datum = df["startdatum"].min().date()
+max_datum = df["startdatum"].max().date()
+zeitraum = st.sidebar.slider(
+    "Zeitraum (Startdatum)",
+    min_value=min_datum,
+    max_value=max_datum,
+    value=(min_datum, max_datum),
+    format="DD.MM.YYYY",
+)
 
 kategorien = sorted(df["kategorie"].dropna().unique().tolist())
 kategorie_filter = st.sidebar.multiselect("Kategorie", kategorien, default=kategorien)
@@ -39,7 +46,8 @@ status_werte = sorted(df["status"].dropna().unique().tolist())
 status_filter = st.sidebar.multiselect("Status", status_werte, default=status_werte)
 
 filtered = df[
-    df["jahr"].isin(jahr_filter)
+    (df["startdatum"].dt.date >= zeitraum[0])
+    & (df["startdatum"].dt.date <= zeitraum[1])
     & df["kategorie"].isin(kategorie_filter)
     & df["region"].isin(region_filter)
     & df["status"].isin(status_filter)
